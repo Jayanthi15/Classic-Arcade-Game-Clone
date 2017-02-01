@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+#game_status {
+    height: 5px;
+}
+.game_won {
+    color: green;
+}
+.game_over {
+    color: red;
+}
